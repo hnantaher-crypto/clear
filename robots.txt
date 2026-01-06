@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://clear-ashy-eta.vercel.app/sitemap.xml
